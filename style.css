@@ -179,8 +179,7 @@ header ul {
 }
 
 .outer-container {
-  /* background-color: var(--Off-white); */
-  background-color: red;
+  background-color: var(--Off-white);
   width: 100vw;
   min-height: 100vh;
   padding: 10px;
